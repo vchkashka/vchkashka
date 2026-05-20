@@ -10,14 +10,15 @@
 
 ## Skills
 
+* Product analytics
 * A/B testing
-* Data visualization
+* Retention & cohort analysis
+* Exploratory data analysis (EDA)
 * Statistical analysis
+* Hypothesis testing
+* Data visualization
+* Data cleaning
 
 ## Tools
 
 Python (Pandas, NumPy, SciPy) • SQL • Jupyter Notebook • Git • Google Sheets • Yandex Datalens
-
-## Contact
-
-* GitHub: @vchkashka
