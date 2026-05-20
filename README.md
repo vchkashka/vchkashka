@@ -1,6 +1,6 @@
 # Hi, I'm Kate, Data Analyst 👋
 
-## What I do:
+## What I do
 
 * Analyze user behavior and product metrics
 * Validate hypotheses with statistical tests
@@ -22,3 +22,12 @@
 ## Tools
 
 Python (Pandas, NumPy, SciPy) • SQL • Jupyter Notebook • Git • Google Sheets • Yandex Datalens
+
+## Education
+
+Bachelor’s degree in Applied Informatics (09.03.03)
+
+## Courses
+
+Yandex Practicum — Data Analyst
+
